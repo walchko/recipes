@@ -1,6 +1,8 @@
 # bubble up pizza
 
-<video src="https://www.youtube.com/shorts/pHjvscW2El0"/>
+<video controls> 
+  <source src="https://www.youtube.com/shorts/pHjvscW2El0"> 
+</video>
 
 ![](recipe.png)
 
